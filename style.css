@@ -1,6 +1,18 @@
 .audiolist{
     list-style-type: none;
 }
-.tab{
-    border: 100px;
+table{
+    border-collapse: collapse;
+    text-align: left;
+    font-size: medium;
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
+th{
+    background-color: rgba(80,80 ,80, 0.5);
+    
+}
+.col1{
+    line-height: 1.4;
+}
+
+
